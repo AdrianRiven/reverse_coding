@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.Component {
+    border-block-color: black;
+    position: absolute;
+    left: 40px;
+    top: 30%;
+    width: 50%;
+}
+
+.answer {
+    padding: 0.2rem;
+}
+
+.type {
+    padding: 0.2rem;
+}
+
+.Submit {
+    margin: 2%;
+    padding: 0.4rem;
+    align-self: center;
+}
+
